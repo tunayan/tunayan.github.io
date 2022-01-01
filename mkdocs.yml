@@ -1,5 +1,5 @@
 site_name: Just another software blog
 site_url: https://tunayan.github.io
-theme: windmill
+theme: gitbook
 nav:
   - Home: index.md
