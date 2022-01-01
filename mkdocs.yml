@@ -3,10 +3,10 @@ site_url: https://tunayan.github.io
 theme: gitbook
 nav:
   - Home: index.md
-  - test1: test1
-  - test2: 
-    - sect/test2
-    - sect/test3
+  - Test1: test1.md
+  - Test2: 
+    - sect/test2.md
+    - sect/test3.md
 
 extra:
   nav:
