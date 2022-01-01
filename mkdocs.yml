@@ -3,7 +3,13 @@ site_url: https://tunayan.github.io
 theme: gitbook
 nav:
   - Home: index.md
+  - test1
+  - sect/test2
 
 extra:
   nav:
     sort_order: reverse
+
+plugins:
+    - search
+    - awesome-pages
