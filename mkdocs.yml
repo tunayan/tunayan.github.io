@@ -15,3 +15,5 @@ extra:
 plugins:
     - search
     - awesome-pages
+
+repo_url: https://github.com/tunayan/tunayan.github.io
